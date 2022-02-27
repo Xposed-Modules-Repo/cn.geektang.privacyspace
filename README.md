@@ -2,6 +2,8 @@
 
 [Source code](https://github.com/GeekTR/PrivacySpace)  [中文文档](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/blob/main/README_CN.md)
 
+
+
 This is an **Xposed** module. The function of this module is to "hide" the apps so that no other apps can find them, which can achieve the "Second space" function of MIUI. We can use this module to hide the Xposed module, or some relatively private apps to protect our privacy.
 
 ## Notice
@@ -26,7 +28,7 @@ They will coming soon in future.
 
 - [x] Fixed the bug that some mobile phones crashed directly without root permission. 
 
-- [ ] Remove the dependency on root permissions. 
+- [x] Remove the dependency on root permissions. 
 
 - [ ] Install Xposed module to automatically hide (user optional). 
 
