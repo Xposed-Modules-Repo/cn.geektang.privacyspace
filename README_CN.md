@@ -1,6 +1,6 @@
 ## 隐秘空间
 
-[源码在这里]([GitHub - GeekTR/PrivacySpace](https://github.com/GeekTR/PrivacySpace))
+[源码](https://github.com/GeekTR/PrivacySpace)
 
 这是一个**Xposed**模块。此模块的功能是将App“藏”起来，让其他App都找不到它们，可达到类型MIUI的“手机分身”功能。我们可以利用此模块隐藏Xposed模块，或者某些比较私人的App（比如某些科学上网的App），以此保护我们的隐私。
 
