@@ -7,10 +7,21 @@
 
 [Source code](https://github.com/GeekTR/PrivacySpace)  [中文文档](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/blob/main/README_CN.md)
 
+This is an **Xposed** module. The function of this module is to "hide" the apps, which can achieve the "Second space" function of MIUI.
 
-This is an **Xposed** module. The function of this module is to "hide" the apps so that no other apps can find them, which can achieve the "Second space" function of MIUI. We can use this module to hide the Xposed module, or some relatively private apps to protect our privacy.
+## What cool things can it do?
 
-## Notice 
+1. In addition to detecting Root, some banking apps will also detect Xposed modules. This module can hide our Xposed modules and pass the detection of banking apps;
+
+2. A certain version of an app is particularly useful, and we don't want it to be automatically updated by the app store;
+
+3. When we are watching an advertisement, some apps detect the existence of another app and will open it directly, but we do not want to open that app;
+
+4. Why should we tell software vendors something as personal as which apps are installed?
+
+5. More cool things are waiting for you to discover...
+
+## Notice
 
 1. If random package names are enabled in your Magisk app, whitelist it. Otherwise, the apps moved to the "Privacy Space" cannot obtain the Root permission correctly. 
 
