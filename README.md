@@ -45,6 +45,8 @@ They will coming soon in future.
 
 - [x] Remove the dependency on root permissions. 
 
+- [ ] Configuration backup and restore
+
 - [ ] Install Xposed module to automatically hide (user optional). 
 
 - [ ] When the Xposed module is hidden, the user can choose whether to add its recommended app as its "Connected App".
