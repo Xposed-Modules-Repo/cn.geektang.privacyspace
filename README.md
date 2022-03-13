@@ -31,7 +31,7 @@ This is an **Xposed** module. The function of this module is to "hide" the apps,
 3. If you don't want to hide an app (such as the desktop app), you can add it to the whitelist.
 
 4. If you use this module to hide some system apps, the system may fail to boot after the restart. Therefore, exercise caution when hiding system apps. 
-
+ 
 5. If this module causes your system to fail to boot, you can restart the system again after connecting to the computer and executing "adb uninstall cn.geektang.privacyspace" on the system load page (with USB debugging enabled).
 
 ## Todo
