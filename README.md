@@ -9,7 +9,7 @@
 [Source code](https://github.com/GeekTR/PrivacySpace)  [中文文档](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/blob/main/README_CN.md)
 
 This is an **Xposed** module. The function of this module is to "hide" the apps, which can achieve the "Second space" function of MIUI.
-
+ 
 ## What cool things can it do?
 
 1. In addition to detecting Root, some banking apps will also detect Xposed modules. This module can hide our Xposed modules and pass the detection of banking apps;
