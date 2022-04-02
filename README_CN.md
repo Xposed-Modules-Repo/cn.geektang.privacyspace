@@ -1,5 +1,11 @@
 ## 隐秘空间
 
+[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/cn.geektang.privacyspace?label=Stars)](https://github.com/GeekTR/PrivacySpace)
+[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/cn.geektang.privacyspace?label=Release)](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases/latest)
+[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.geektang.privacyspace/total)](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases/latest)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/PrivacySpaceAlpha)
+[![GitHub license](https://img.shields.io/github/license/Xposed-Modules-Repo/cn.geektang.privacyspace)](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/blob/main/LICENSE)
+
 [源码](https://github.com/GeekTR/PrivacySpace)
 
 这是一个**Xposed**模块。它可以将App“藏”起来，让其他App都找不到它们，可达到类似MIUI的“手机分身”功能。
