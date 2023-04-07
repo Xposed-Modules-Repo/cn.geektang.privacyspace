@@ -1,6 +1,6 @@
 # Privacy Space
 
-[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/cn.geektang.privacyspace?label=Stars)](https://github.com/GeekTR/PrivacySpace)
+[![Stars](https://img.shields.io/github/stars/GeekTR/PrivacySpace?label=Stars)](https://github.com/GeekTR/PrivacySpace)
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/cn.geektang.privacyspace?label=Release)](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases/latest)
 [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.geektang.privacyspace/total)](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases/latest)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/PrivacySpaceAlpha)
